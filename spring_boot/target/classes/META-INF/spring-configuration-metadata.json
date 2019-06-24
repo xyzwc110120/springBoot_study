@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "db",
+      "type": "com.cyx.spring.springboot._02_configuration_properties.DataSourceDemo",
+      "sourceType": "com.cyx.spring.springboot._02_configuration_properties.DataSourceDemo"
+    }
+  ],
+  "properties": [
+    {
+      "name": "db.driver-class-name",
+      "type": "java.lang.String",
+      "sourceType": "com.cyx.spring.springboot._02_configuration_properties.DataSourceDemo"
+    },
+    {
+      "name": "db.password",
+      "type": "java.lang.String",
+      "sourceType": "com.cyx.spring.springboot._02_configuration_properties.DataSourceDemo"
+    },
+    {
+      "name": "db.url",
+      "type": "java.lang.String",
+      "sourceType": "com.cyx.spring.springboot._02_configuration_properties.DataSourceDemo"
+    },
+    {
+      "name": "db.username",
+      "type": "java.lang.String",
+      "sourceType": "com.cyx.spring.springboot._02_configuration_properties.DataSourceDemo"
+    }
+  ],
+  "hints": []
+}
